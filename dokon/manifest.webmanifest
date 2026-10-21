@@ -1,0 +1,17 @@
+{
+  "name": "BozorPOS Do‘kon",
+  "short_name": "Do‘kon POS",
+  "description": "Oziq-ovqat do'konlari uchun POS: skaner, kassa, kirim, hisobot.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f2f4f0",
+  "theme_color": "#0c2227",
+  "lang": "uz",
+  "icons": [
+    { "src": "../shared/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "../shared/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" },
+    { "src": "../shared/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

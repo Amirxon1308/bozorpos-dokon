@@ -1,0 +1,7 @@
+server/data/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+print-agent/config.json
+dist/
